@@ -1,2 +1,3 @@
 # hello-world
-Freakin Hacking
+Freakin Hacking;
+Learning all the code. 
